@@ -1,22 +1,9 @@
 """
-#Programmer     :   Rajesh Mani Poudel
-#Program        :   Blackjack game
-#Purpose        :   The purpose of the project is to develop a blackjack game using any programming knowledge.
-                    The programming language used here is python
-#Date           :   feb 16 2016
-
-"""
-
-
-"""
 try to import pygame as simple gui if you want to use simplegui by codeskulptor in your pc that
 has python pygame features installed.
 if you dont have the features , then try to copy this code and run at www.codeskulptor.org
 """
 
-"""
-My pc has pygame installed, so i imported pygame to make  gui work
-"""
 try:
     import simplegui
 except ImportError:
